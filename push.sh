@@ -20,7 +20,7 @@ REPO_URL="${HOST}/${ORG}/${REPO}.git"
 BRANCH="master" #or "main"
 
 # Commit Message:
-MESSAGE="@eshanized: push via push.sh!!!"
+MESSAGE="@eshanized: push via push.sh 🎉 !!!"
 
 # Git Action
 git add .
