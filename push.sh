@@ -16,6 +16,7 @@ ORG=Snigdha-OS
 
 
 # SETUP REPO URL
+# shellcheck disable=SC2034
 REPO_URL="${HOST}/${ORG}/${REPO}.git"
 BRANCH="master" #or "main"
 
